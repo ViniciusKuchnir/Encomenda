@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "root",
+    "password": "bancodedados",
+    "database": "encomenda",
+    "host": "localhost",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": null,
+    "database": "database_production",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "urlRoot": "http://192.168.15.7:3000/",
+  "origin": "Rua Rosa Mehl, 165 - Curitiba/PR",
+  "geocodingAPI": "AIzaSyA-cEH146YVKdQX-AnHeYBCWWtJC7fDXOA"
+}
