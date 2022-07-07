@@ -21,6 +21,6 @@
     "dialect": "mysql"
   },
   "urlRoot": "http://192.168.15.7:3000/",
-  "origin": "Rua Rosa Mehl, 165 - Curitiba/PR",
+  "origin": "Rua Rosa das Laranjeiras, 2423 - Curitiba/PR",
   "geocodingAPI": "API Key Geocoding API"
 }
